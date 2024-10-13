@@ -1,0 +1,23 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.search-input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.emoji-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.emoji {
+  margin: 10px;
+  text-align: center;
+}
